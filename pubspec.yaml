@@ -11,7 +11,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   flutter:
     sdk: flutter
-  video_player: ^1.0.0
+  video_player: 0.11.1+2
   wakelock: ^0.2.1+1
 
 dev_dependencies:
